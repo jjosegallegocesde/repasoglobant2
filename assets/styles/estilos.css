@@ -1,0 +1,8 @@
+.esika{
+    background-image: url("../img/foto1.jpg");
+    background-position: top center;
+    background-size: cover;
+    padding: 25%;
+    background-attachment: fixed;
+
+}
